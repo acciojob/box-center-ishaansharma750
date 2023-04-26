@@ -1,1 +1,20 @@
-/*  your css code here. If applicable */
+
+/* Your CSS Code here. */
+.continer{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+.box{
+	background-color:lightblue;
+	padding:auto;
+	border:2px solid black;
+	width:250px;
+	height:200px;
+	margin-top:150px;
+}
+.data{
+	padding:80px;
+	color:purple;
+	font-style:sandybrown;
+}
