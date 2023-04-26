@@ -13,9 +13,11 @@
 	width:250px;
 	height:200px;
 	margin-top:150px;
+	border-top-width:2px;
 }
 .data{
 	padding:80px;
 	color:purple;
 	font-style:sandybrown;
+	border-top-width:2px;
 }
